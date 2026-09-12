@@ -22,10 +22,6 @@ Key themes include:
 
 - Coupled **Discrete Element Method–Pore Network Modeling (DEM–PNM)**
 - Two-way hydro-mechanical coupling
-- Multiphase flow and viscous/capillary fingering
-- Dynamic porosity–permeability relationships
-- Reduced-order modeling and machine-learning surrogates
-- Minkowski functionals and Betti numbers for pore-topology analysis
 
 ## Previous Research
 
